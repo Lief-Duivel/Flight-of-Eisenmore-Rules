@@ -158,11 +158,11 @@
     color: #3FB197;
 }
 
-#section-condition, #section-critical .item-icon {
+#section-critical, #section-critical .item-icon {
     background-color: #D0021B;
     border-color: #D0021B;
 }
-#section-criticalcondition .text {
+#section-critical .text {
     color: #D0021B;
 }
 
