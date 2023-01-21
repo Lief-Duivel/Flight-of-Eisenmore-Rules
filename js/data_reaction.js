@@ -1,5 +1,16 @@
 data_reaction = [
     {
+        title: "Cast a spell",
+        icon: "spell3",
+        subtitle: "Cast time of 1 reaction",
+        description: "Cast a spell with a casting time of 1 reaction",
+        reference: "Terminoloy - Spells",
+        bullets: [
+            "Trigger: specified by the spell.",
+            "For further details, see the <i>Cast a spell</i> action."
+        ]
+    },
+    {
         title: "Opportunity attack",
         icon: "crossed-swords",
         subtitle: "Enemy leaves your reach",
@@ -23,14 +34,13 @@ data_reaction = [
         ]
     },
     {
-        title: "Cast a spell",
-        icon: "magic-swirl",
-        subtitle: "Cast time of 1 reaction",
-        description: "Cast a spell with a casting time of 1 reaction",
+        title: "Use a class reaction",
+        icon: "class3",
+        subtitle: "Use a reaction specified by your class",
+        description: "Use a reaction specified by your class",
         reference: "PHB, pg. 192.",
         bullets: [
-            "Trigger: specified by the spell.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "Trigger: specified by the feature.",
         ]
     }
 ]
