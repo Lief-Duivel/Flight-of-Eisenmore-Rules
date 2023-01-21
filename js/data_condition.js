@@ -45,20 +45,6 @@ data_condition = [
         ]
     },
     {
-        title: "Restrained",
-        icon: "restrained",
-        subtitle: "You are restrained",
-        description: "You are restrained",
-        reference: "Condition",
-        bullets: [
-            "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
-            "You have disadvantage on <i>Mobility</i> resitance rolls.",
-            "The effects ends if the enemy restrained you is incapacitated or out of reach.",
-            "If restrained by a spell, the effect ends when the spell ends, you move out of range, or the caster is incapacitated.",
-            "If restrained by an item, such as chains, the effect ends when the item is broken or removed."
-        ]
-    },
-    {
         title: "Invisible",
         icon: "invisible",
         subtitle: "You can't be seen",
@@ -96,18 +82,6 @@ data_condition = [
         ]
     },
     {
-        title: "Tainted",
-        icon: "tainted",
-        subtitle: "You are tainted",
-        description: "You have become afflicted by a disease, curse, or magical poison",
-        reference: "Condition",
-        bullets: [
-            "You have disadvantage on attack rolls and ability checks.",
-            "Afflictions can vary depending on the source, such as dealing damage, or limiting skills.",
-            "Afflictions can only be cured by specialists, magic, or certain feats, and do not heal during camp."
-        ]
-    },
-    {
         title: "Prone",
         icon: "prone2",
         subtitle: "You are prone",
@@ -120,6 +94,20 @@ data_condition = [
         ]
     },
     {
+        title: "Restrained",
+        icon: "restrained",
+        subtitle: "You are restrained",
+        description: "You are restrained",
+        reference: "Condition",
+        bullets: [
+            "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
+            "You have disadvantage on <i>Mobility</i> resitance rolls.",
+            "The effects ends if the enemy restrained you is incapacitated or out of reach.",
+            "If restrained by a spell, the effect ends when the spell ends, you move out of range, or the caster is incapacitated.",
+            "If restrained by an item, such as chains, the effect ends when the item is broken or removed."
+        ]
+    },
+    {
         title: "Stunned",
         icon: "stunned",
         subtitle: "You are stunned",
@@ -129,6 +117,18 @@ data_condition = [
             "You are incapacitated until your next turn,",
             "Attack rolls against you have advantage.",
             "You automatically fail <i>Might</i> and <i>Mobility</i> saving throws."
+        ]
+    },
+    {
+        title: "Tainted",
+        icon: "tainted",
+        subtitle: "You are tainted",
+        description: "You have become afflicted by a disease, curse, or magical poison",
+        reference: "Condition",
+        bullets: [
+            "You have disadvantage on attack rolls and ability checks.",
+            "Afflictions can vary depending on the source, such as dealing damage, or limiting skills.",
+            "Afflictions can only be cured by specialists, magic, or certain feats, and do not heal during camp."
         ]
     }
 ]
