@@ -1,4 +1,4 @@
-data_criticalcondition = [
+data_critical = [
     {
         title: "Crippled",
         icon: "crippled",
