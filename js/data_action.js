@@ -165,7 +165,7 @@ data_action = [
     {
         title: "Team Combo",
         icon: "teamcombo",
-        subtitle: "Perform an action with two or more allies",
+        subtitle: "Perform an action with two+ allies",
         description: "Perform an action with two or more allies, in succession or addition to each other",
         reference: "Terminology - Team Action",
         bullets: [
@@ -177,7 +177,7 @@ data_action = [
     {
         title: "Team Sync",
         icon: "teamsync",
-        subtitle: "Perform an action with two or more allies",
+        subtitle: "Perform an action with two+ allies",
         description: "Perform an action with two or more allies, simultaniously",
         reference: "Terminology - Team Action",
         bullets: [
