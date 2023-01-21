@@ -206,16 +206,5 @@ data_action = [
         bullets: [
 
         ]
-    },
-    {
-        title: "Use shield",
-        icon: "shield",
-        subtitle: "Equip or unequip a shield",
-        description: "Equip or unequip a shield",
-        reference: "Action",
-        bullets: [
-            "A shield always takes an action to equip or unequip.",
-            "Armor takes several minutes to equip or unequip."
-        ]
     }
 ]
