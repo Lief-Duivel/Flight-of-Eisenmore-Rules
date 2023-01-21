@@ -12,10 +12,10 @@ data_reaction = [
     },
     {
         title: "Opportunity attack",
-        icon: "crossed-swords",
+        icon: "opportunity",
         subtitle: "Enemy leaves your reach",
         description: "You can rarely move heedlessly past your foes without putting yourself in danger",
-        reference: "PHB, pg. 195.",
+        reference: "Terminology - Combat",
         bullets: [
             "Trigger: enemy creature you can see leaves your reach.",
             "Make one melee attack against the provoking creature.",
@@ -25,10 +25,10 @@ data_reaction = [
     },
     {
         title: "Readied action",
-        icon: "stopwatch",
+        icon: "readied",
         subtitle: "Part of your Ready action",
         description: "Execute the reaction specified by your Ready action",
-        reference: "PHB, pg. 193.",
+        reference: "Reaction",
         bullets: [
             "Trigger: specified by your <i>Ready</i> action."
         ]
@@ -38,7 +38,7 @@ data_reaction = [
         icon: "class3",
         subtitle: "Use a reaction specified by your class",
         description: "Use a reaction specified by your class",
-        reference: "PHB, pg. 192.",
+        reference: "Reaction",
         bullets: [
             "Trigger: specified by the feature.",
         ]
