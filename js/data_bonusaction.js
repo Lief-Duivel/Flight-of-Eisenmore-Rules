@@ -24,6 +24,27 @@ data_bonusaction = [
         ]
     },
     {
+        title: "Pass an item",
+        icon: "pass",
+        subtitle: "Pass an item to an ally",
+        description: "Pass an item to an ally within 5ft",
+        reference: "Action",
+        bullets: [
+            "Passing to allies any furuther than 5ft becomes a throw, and takes a full action",
+        ]
+    },
+    {
+        title: "Switch Weapon",
+        icon: "switch",
+        subtitle: "Switch an equiped weapon",
+        description: "Switch either your main or secondary weapon",
+        reference: "Action",
+        bullets: [
+            "Only one weapon can be swapped during a bonus action.",
+            "Weapons of a greater weight or size than the weapon equipped take 1 full action."
+        ]
+    },
+    {
         title: "Use class feature",
         icon: "class2",
         subtitle: "Some features use bonus actions",
