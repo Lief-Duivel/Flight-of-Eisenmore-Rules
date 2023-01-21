@@ -119,51 +119,59 @@
 /* Colors */
 /* ------------------------------------------------------------------------- */
 #section-movement, #section-movement .item-icon {
-    background-color: maroon;
-    border-color: maroon;
+    background-color: #4A63E2;
+    border-color: #4A63E2;
 }
 #section-movement .text {
-    color: maroon;
+    color: #4A63E2;
 }
 
 #section-action, #section-action .item-icon {
-    background-color: black;
-    border-color: black;
+    background-color: #417505;
+    border-color: #417505;
 }
 #section-action .text {
-    color: black;
+    color: #417505;
 }
 
 #section-bonus-action, #section-bonus-action .item-icon {
-    background-color: indigo;
-    border-color: indigo;
+    background-color: #F5A623;
+    border-color: #F5A623;
 }
 #section-bonus-action .text {
-    color: indigo;
+    color: #F5A623;
 }
 
 #section-reaction, #section-reaction .item-icon {
-    background-color: DarkOliveGreen ;
-    border-color: DarkOliveGreen ;
+    background-color: #770ED3;
+    border-color: #770ED3;
 }
 #section-reaction .text {
-    color: DarkOliveGreen ;
+    color: #770ED3;
 }
 
 #section-condition, #section-condition .item-icon {
-    background-color: FireBrick;
-    border-color: FireBrick;
+    background-color: #3FB197;
+    border-color: #3FB197;
 }
 #section-condition .text {
-    color: FireBrick;
+    color: #3FB197;
+}
+
+#section-condition, #section-criticalcondition .item-icon {
+    background-color: #D0021B;
+    border-color: #D0021B;
+}
+#section-criticalcondition .text {
+    color: #D0021B;
 }
 
 #section-environment, #section-environment .item-icon {
-    background-color: ForestGreen;
-    border-color: ForestGreen;
+    background-color: #B57204;
+    border-color: #B57204;
 }
 #section-environment .text {
-    color: ForestGreen;
+    color: #B57204;
 }
 
 
