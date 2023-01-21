@@ -87,8 +87,8 @@ data_movement = [
     },
     {
         title: "Difficult terrain",
-        icon: "terraine",
-        subtitle: "Cost modifier: double movement per tile",
+        icon: "terrain",
+        subtitle: "Cost: double movement per tile",
         reference: "Movement",
         description: "Moving in difficult terrain doubles the cost per tile",
         bullets: [
