@@ -81,7 +81,7 @@ data_action = [
     },
     {
         title: "Grapple",
-        icon: "grapplemove",
+        icon: "grapple",
         subtitle: "Special melee attack",
         description: "Attempt to grab a creature or wrestle with it",
         reference: "Actions",
