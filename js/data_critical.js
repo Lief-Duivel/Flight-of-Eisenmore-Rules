@@ -44,9 +44,9 @@ data_critical = [
         description: "You fell to 0 HP and became injured",
         reference: "Critical Condition",
         bullets: [
-            "When you become injured, you take on the bleed condition. Actions, bonus actions, reactions, and movement can be taken at the cost of Bleed Damage.",
-            "Actions cost 5 HP, Bonus actions and reactions cost 3, while Movement costs 1 HP per 5ft.",
-            "The effects ends if the wound is sealed or magically treated, and does not end at Camp unless treated."
+            "When you take the <i>Injured</i> condition, you also take on the <i>Bleed</i> condition. Actions, bonus actions, reactions, and movement can be taken at the cost of Bleed Damage.",
+            "Actions deal 5 HP of damage, Bonus actions and reactions deal 3HP, while Movement costs 1HP per 5ft.",
+            "The <i>Injured</i> condition prevents the <i>Bleed</i> condition from being sealed or magically healed until the next Break or Camp."
         ]
     },
     {
