@@ -19,7 +19,7 @@ data_environment_obscurance = [
             "A creature in a heavily obscured area effectively suffers from the <b>blinded condition</b>."
         ]
     }
-]
+];
 
 data_environment_light = [
     {
@@ -55,7 +55,7 @@ data_environment_light = [
             "Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness."
         ]
     }
-]
+];
 
 data_environment_vision = [
     {
@@ -76,7 +76,7 @@ data_environment_vision = [
         reference: "Environment Effects",
         bullets: [
             "Within a specified range, a creature with darkvision can <b>see in darkness as if the darkness were dim light</b>, so areas of darkness are only lightly obscured as far as that creature is concerned.",
-            "However, the creature can’t discern color in darkness, only shades of gray.",
+            "However, the creature can’t discern color in darkness, only shades of gray."
         ]
     },
     {
@@ -89,7 +89,7 @@ data_environment_vision = [
             "A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic."
         ]
     }
-]
+];
 
 data_environment_cover = [
     {
@@ -115,4 +115,4 @@ data_environment_cover = [
             "If a target is behind multiple sources of cover, only the most protective degree of cover applies"
         ]
     }
-]
+];
