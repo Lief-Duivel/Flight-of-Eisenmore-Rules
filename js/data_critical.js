@@ -56,7 +56,7 @@ data_critical = [
         description: "You fell to 0 HP and perished",
         reference: "Critical Condition",
         bullets: [
-            "This condition can only be reached if 2 other Critical Conditions have stacked, making Perish the 3rd. Or, you receive damage more than five times your maximum HP.",
+            "This condition can only be reached if 2 other Critical Conditions have stacked, making Perish the 3rd, or you receive damage more than five times your maximum HP.",
             "Speak with your GM to confirm whether or not you wouud like Perish as an option for your character."
         ]
     },
