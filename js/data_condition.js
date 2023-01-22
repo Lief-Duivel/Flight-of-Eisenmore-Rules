@@ -131,4 +131,4 @@ data_condition = [
             "Afflictions can only be cured by specialists, magic, or certain feats, and do not heal during camp."
         ]
     }
-]
+];
