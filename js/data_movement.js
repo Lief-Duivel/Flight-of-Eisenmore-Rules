@@ -73,7 +73,7 @@ data_movement = [
         bullets: [
             "You cover a number of feet up to your <i>Power Score</i>, as long as you move at least 10ft immediately before the jump.",
             "When you make a standing jump, you can jump only half that distance.",
-            "May involve a <i>Mobility</i> check to clear an obstacle, no taller than a quarter the jump's distance. You hit the object on a failed roll.",
+            "May involve a <i>Mobility</i> check to clear an obstacle, no taller than a quarter the jump's distance. You hit the object on a failed roll."
         ]
     },
     {
@@ -105,4 +105,4 @@ data_movement = [
             "See the attack action for how to grapple a creature."
         ]
     }
-]
+];
