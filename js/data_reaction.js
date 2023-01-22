@@ -40,7 +40,7 @@ data_reaction = [
         description: "Use a reaction specified by your class",
         reference: "Reaction",
         bullets: [
-            "Trigger: specified by the feature.",
+            "Trigger: specified by the feature."
         ]
     }
-]
+];
