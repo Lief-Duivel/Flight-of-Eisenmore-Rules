@@ -33,7 +33,7 @@ data_critical = [
             "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on skill checks, aim rolls, and resistance rolls</td></tr><tr><td>2</td><td></td><td></td><td>Movement halved</td></tr><tr><td>3</td><td></td><td></td><td>Movement speed reduced to 0</td></tr><tr><td>++</td><td></td><td></td><td>Become unconcious</td></tr></table>",
             "You suffer the effect of your current level of exhaustion as well as all lower levels.",
             "Exhaustion levels are gained every two turns you take, starting from the 1st level.",
-            "A successful Camp removes your exhaustion, provided that you have also had some food and drink.",
+            "A successful Camp removes your exhaustion, provided that you have also had some food and drink."
         ]
     },
     {
@@ -56,7 +56,7 @@ data_critical = [
         reference: "Critical Condition",
         bullets: [
             "This condition can only be reached if 2 other Critical Conditions have stacked, making Perish the 3rd. Or, you receive damage more than five times your maximum HP.",
-            "Speak with your GM to confirm whether or not you wouud like Perish as an option for your character.",
+            "Speak with your GM to confirm whether or not you wouud like Perish as an option for your character."
         ]
     },
     {
@@ -68,8 +68,8 @@ data_critical = [
         bullets: [
             "This condition is gained by passing level 3 Exhaustion; as an alternative to Perish; or if you receive damage more than two times your max HP.",
             "This condition can be removed by a successful camp, or a successful Waking Roll. Waking Rolls are 1d6, successful rolls 5-6.",
-            "Allies may assist in Waking Rolls, changing the successful roll to 3-6."
+            "Allies may assist in Waking Rolls, changing the successful roll to 3-6.",
             "While Unconcious you may not take actions, bonus actions, or reactions, and your movement is reduced to 0."
         ]
     }
-]
+];
