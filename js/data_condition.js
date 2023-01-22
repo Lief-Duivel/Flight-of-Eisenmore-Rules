@@ -12,14 +12,14 @@ data_condition = [
         ]
     },
     {
-        title: "Bleed",
+        title: "Bleeding",
         icon: "bleed",
         subtitle: "You are bleeding",
         description: "You are wounded and bleeding",
         reference: "Condition",
         bullets: [
-            "You have received a wound that cut deep, taking on the <i>Bleed</i> condition.",
-            "Bleed causes damage until the end of your next turn, or until it is sealed or magically cured.",
+            "You have received a wound that cut deep, taking on the <i>Bleeding</i> condition.",
+            "Bleeding causes damage until the end of your next turn, or until it is sealed or magically cured.",
             "Actions deal 5HP of damage, Bonus Actions deal 3HP, and Movement deals 1HP per 5ft."
         ]
     },
