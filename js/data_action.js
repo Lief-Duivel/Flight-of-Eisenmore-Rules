@@ -71,11 +71,13 @@ data_action = [
     {
         title: "Escape",
         icon: "grappleescape",
-        subtitle: "Escape a grapple",
-        description: "Escape a grapple",
+        subtitle: "Escape restraint",
+        description: "Escape restraint",
         reference: "Action",
         bullets: [
-            "To escape a grapple, you must succeed on a <i>Might</i> or <i>Mobility</i> check contested by the grappler's Strength <i>Might</i> check."
+            "To escape a grapple, you must succeed on a <i>Might</i> or <i>Mobility</i> check contested by the grappler's <i>Might</i> check."
+            "To escape a restraint from an item, you must succeed on a <i>Might</i> or <i>Mobility</i> check to break or unlock the restraints."
+            "To escape a magical restraint, you must succeed a check specified by the spell."
         ]
     },
     {
