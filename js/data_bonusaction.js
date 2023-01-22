@@ -30,7 +30,7 @@ data_bonusaction = [
         description: "Pass an item to an ally within 5ft",
         reference: "Action",
         bullets: [
-            "Passing to allies any furuther than 5ft becomes a throw, and takes a full action",
+            "Passing to allies any furuther than 5ft becomes a throw, and takes a full action"
         ]
     },
     {
@@ -65,4 +65,4 @@ data_bonusaction = [
             "Armor takes several minutes to equip or unequip."
         ]
     }
-]
+];
