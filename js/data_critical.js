@@ -33,6 +33,7 @@ data_critical = [
             "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on skill checks, aim rolls, and resistance rolls</td></tr><tr><td>2</td><td></td><td></td><td>Movement halved</td></tr><tr><td>3</td><td></td><td></td><td>Movement speed reduced to 0</td></tr><tr><td>++</td><td></td><td></td><td>Become unconcious</td></tr></table>",
             "You suffer the effect of your current level of exhaustion as well as all lower levels.",
             "Exhaustion levels are gained every two turns you take, starting from the 1st level.",
+            "Pushing past Exhaustion with a successful <i>Stamina</i> roll allows you to take a turn normally, but increases Exhaustion by one level at the end of your turn.",
             "A successful Camp removes your exhaustion, provided that you have also had some food and drink."
         ]
     },
