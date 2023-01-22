@@ -71,7 +71,7 @@ data_movement = [
         description: "Movement cost: 5ft per tile jumped",
         reference: "Movement",
         bullets: [
-            "You cover a nnumber of feet up to your <i>Power Score</i>, as long as you move at least 10ft immediately before the jump.",
+            "You cover a number of feet up to your <i>Power Score</i>, as long as you move at least 10ft immediately before the jump.",
             "When you make a standing jump, you can jump only half that distance.",
             "May involve a <i>Mobility</i> check to clear an obstacle, no taller than a quarter the jump's distance. You hit the object on a failed roll.",
         ]
