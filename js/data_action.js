@@ -170,8 +170,8 @@ data_action = [
         description: "Perform an action with two or more allies, in succession or addition to each other",
         reference: "Terminology - Team Action",
         bullets: [
-            "Perform a communicated action with two or more allies within 30ft of yourself.",
-            "Half of all targets must succeed a Team Roll, performing their actions in the order communicated.",
+            "Perform a communicated action with two or more allies within 60ft of yourself.",
+            "All targets must succeed a Low Team Roll, performing their actions in the order communicated.",
             "Targets perform the action immediately on your turn, regardless of initiative - this action uses all targets turns for the round."
         ]
     },
@@ -182,8 +182,8 @@ data_action = [
         description: "Perform an action with two or more allies, simultaniously",
         reference: "Terminology - Team Action",
         bullets: [
-            "Perform a communicated action with two or more allies within 30ft of yourself.",
-            "Half of all targets must succeed a Team Roll, performing an syncronous action on success.",
+            "Perform a communicated action with two or more allies within 60ft of yourself.",
+            "Half of all targets must succeed a Team Roll, performing a syncronous action on success.",
             "Targets perform the action immediately on your turn, regardless of initiative - this action uses all targets turns for the round."
         ]
     },
