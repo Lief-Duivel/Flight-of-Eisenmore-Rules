@@ -32,7 +32,6 @@ data_action = [
         description: "Cast a spell with a casting time of 1 action",
         reference: "Terminology - Spells",
         bullets: [
-            "You can't cast a spell with your action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip, or a feature specifies otherwise.",
             "The target of a spell must be within the spell's range. To target something, you must have a clear path to it, so it can't be behind total cover.",
             "Spells with material components do not consume the material unless explicitly stated. Unless the cost of a material is given, you can assume that the cost is negligible and the material is readily available.",
             "Some spells require you to maintain focus in order to keep their magic active. If you lose focus, such a spell ends. You lose focus on a spell if you are incapacitated. Each time you take damage, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher."
