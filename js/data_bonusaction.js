@@ -61,7 +61,7 @@ data_bonusaction = [
         description: "Equip or unequip a shield",
         reference: "Action",
         bullets: [
-            "A shield always takes an action to equip or unequip.",
+            "A shield always takes a bonus action to equip or unequip.",
             "Armor takes several minutes to equip or unequip."
         ]
     }
