@@ -38,6 +38,17 @@ data_action = [
         ]
     },
     {
+        title: "Combo",
+        icon: "combo",
+        subtitle: "Perform a Combo Action",
+        description: "Perform your class-specific Combo Action",
+        reference: "Terminology - Combo Action",
+        bullets: [
+            "Spend Merit on a Combo Action, at the cost of 10 or 20 Merit.",
+            "See Class for more details."
+        ]
+    },
+    {
         title: "Defend",
         icon: "brace",
         subtitle: "Increase defenses",
