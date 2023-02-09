@@ -18,7 +18,7 @@ data_critical = [
         description: "You fell to 0 HP and became disoriented",
         reference: "Critical Condition",
         bullets: [
-            "When you become disoriented, you make all actions, bonus actions, and reactions with disadvantage.",
+            "When you become disoriented, you make all actions, secondary actions, and reactions with disadvantage.",
             "While disoriented, you can still take movement, but it will be in a random cardinal direction, as decided by a d4 roll.",
             "The effect only ends after a successful camp."
         ]
@@ -34,7 +34,7 @@ data_critical = [
             "You suffer the effect of your current level of exhaustion as well as all lower levels.",
             "Exhaustion levels are gained every two turns you take, starting from the 1st level.",
             "Pushing past Exhaustion with a successful <i>Stamina</i> roll allows you to take a turn normally, but increases Exhaustion by one level at the end of your turn.",
-            "A successful Camp removes your exhaustion, provided that you have also had some food and drink."
+            "A successful Camp removes 1 level of Exhaustion, provided that you have also had some food and drink."
         ]
     },
     {
@@ -44,8 +44,8 @@ data_critical = [
         description: "You fell to 0 HP and became injured",
         reference: "Critical Condition",
         bullets: [
-            "When you take the <i>Injured</i> condition, you also take on the <i>Bleeding</i> condition. Actions, bonus actions, reactions, and movement can be taken at the cost of damage.",
-            "Actions deal 5 HP of damage, Bonus actions and reactions deal 3HP, while Movement costs 1HP per 5ft.",
+            "When you take the <i>Injured</i> condition, you also take on the <i>Bleeding</i> condition. Actions, secondary actions, reactions, and movement can be taken at the cost of damage.",
+            "Actions deal 5 HP of damage, secondary actions and reactions deal 3HP, while Movement costs 1HP per 5ft.",
             "The <i>Injured</i> condition prevents the <i>Bleeding</i> condition from being sealed or magically healed until the next Break or Camp."
         ]
     },
@@ -57,7 +57,7 @@ data_critical = [
         reference: "Critical Condition",
         bullets: [
             "This condition can only be reached if 2 other Critical Conditions have stacked, making Perish the 3rd, or you receive damage more than five times your maximum HP.",
-            "Speak with your GM to confirm whether or not you wouud like Perish as an option for your character."
+            "Speak with your GM to confirm whether or not you would like Perish as an option for your character."
         ]
     },
     {
@@ -70,7 +70,7 @@ data_critical = [
             "This condition is gained by passing level 3 Exhaustion; as an alternative to Perish; or if you receive damage more than two times your max HP.",
             "This condition can be removed by a successful camp, or a successful Waking Roll. Waking Rolls are 1d6, successful rolls 5-6.",
             "Allies may assist in Waking Rolls, changing the successful roll to 3-6.",
-            "While Unconcious you may not take actions, bonus actions, or reactions, and your movement is reduced to 0."
+            "While Unconcious you may not take actions, Secondary actions, or reactions, and your movement is reduced to 0."
         ]
     }
 ];
